@@ -1,5 +1,5 @@
 # Java-Exercises
-Exercises I made to learn Java.
+These are all projects I've done in school to learn Java.
 
 ## Socket + API 📼
 - Echo Server ToUpperCase.
